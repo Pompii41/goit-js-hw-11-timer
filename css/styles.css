@@ -1,0 +1,19 @@
+.field {
+  display: inline-block;
+  padding: 20px;
+  background-color: teal;
+  border-radius: 10px;
+  font-size: 25px;
+  color: aliceblue;
+ 
+
+}
+
+.timer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  margin-bottom: 25px;
+  };
+
+
